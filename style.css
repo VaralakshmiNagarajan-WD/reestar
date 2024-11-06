@@ -1,0 +1,93 @@
+.header{
+    background-color: black;
+    text-align: center;
+    padding:50px;
+    margin: 50px;
+    padding-top: 20px;
+    color:white;
+    text-align: center;
+}
+
+.menu{
+    text-align: center;
+    padding-right: 50px;
+    color:rgb(129, 133, 136);
+}
+
+.img1,.img2,.img3,.img4{
+    vertical-align: top;
+    border: solid black 2px;
+}
+.hcs{
+    color:white;
+    font-size: 30px;
+}
+.name{
+    color: white;
+    padding: 10px;
+    text-align: center;   
+
+}
+.age{
+    color:white;
+    padding: 10px;
+    text-align: center;
+}
+.email{
+    color:white;
+    padding: 10px;
+    text-align: center;
+}
+.button{
+    background-color: yellow;
+    width: 250px;
+    height:30px;
+}
+.input{
+    padding-left: 50px;
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+    padding:50px;
+    margin: 50px;
+    padding-top: 20px;
+}
+
+.container{
+    align-items: center;
+    display: inline-block;
+    display: flex;
+    justify-content: center; /* Adjusts spacing between images */
+    flex-wrap: wrap;
+}
+
+.container img
+    {
+        width: 100%; /* Set to 23% to fit four images in a row with some spacing */
+        height: 250px; /* Maintains the aspect ratio */
+        align-items: center;
+    }
+
+    .button1{
+        background-color: yellow;
+        width: 100px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: solid black 2px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    }
+
+    .desc{
+        text-align: center;
+        font-size: 20px;
+    }
+    .desc1{
+        text-align: center;
+        font-size: 15px;
+    }
