@@ -15,7 +15,7 @@ Basic navigation and footer
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://varalakshminagarajan-wd.github.io/reestar/
 Open the index.html file in a browser to view the front page.
 # Folder Structure
 * index.html - The main landing page
